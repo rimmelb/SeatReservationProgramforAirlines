@@ -1,0 +1,3 @@
+C:/Users/Rimmel Botond/Documents/bme/elsofelev/prog1/NAGYHF/cmake-build-debug/CMakeFiles/NAGYHF.dir
+C:/Users/Rimmel Botond/Documents/bme/elsofelev/prog1/NAGYHF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rimmel Botond/Documents/bme/elsofelev/prog1/NAGYHF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
